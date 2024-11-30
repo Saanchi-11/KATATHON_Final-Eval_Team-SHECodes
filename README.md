@@ -22,3 +22,14 @@ Facilitates regional health communities for volunteers to organize awareness ini
 Offers instant assistance with donor queries related to eligibility, benefits, and the donation process.
 💡 Unique Approaches
 Hemofind goes beyond just connecting donors and recipients by integrating health tracking, community programs, and AI-driven support, ensuring a holistic blood donation experience.
+
+Woking of Code :
+
+ https://drive.google.com/file/d/1xY6iMIg5okJelfavuLKMvy080JIvZsf8/view?usp=sharing
+
+ App :  https://app.moqups.com/eJqH8Jm1AEUwnlE6q6akuP0qJt0Ijut2/view/page/aa139bd57?ui=0 
+
+ChatBot :
+https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/11/30/06/20241130061417-1C8N5L3N.json  
+
+ML MODEL : https://dplearn.streamlit.app/
